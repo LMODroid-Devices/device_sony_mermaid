@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_mermaid.mk
+    $(LOCAL_DIR)/lmodroid_mermaid.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_mermaid-user \
-    lineage_mermaid-userdebug \
-    lineage_mermaid-eng
+    lmodroid_mermaid-user \
+    lmodroid_mermaid-userdebug \
+    lmodroid_mermaid-eng
