@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_mermaid.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_mermaid-user \
-    lmodroid_mermaid-userdebug \
-    lmodroid_mermaid-eng
