@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_mermaid.mk
+    $(LOCAL_DIR)/lmodroid_mermaid.mk
